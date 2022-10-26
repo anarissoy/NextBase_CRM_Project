@@ -35,7 +35,7 @@ public class US_9 {
          *             Users click a module
          *             Verify users see the correct title for the module
          *
-         *             DETERMINED BUG ON THIS USER STORY, SO ACTUAL TITLES ARE NOT MATCHING TO EXPECTED TITLES!!!
+         * BUG REPORT - DETERMINED BUG ON THIS USER STORY, SO ACTUAL TITLES ARE NOT MATCHING TO EXPECTED TITLES!!!
          */
 
         nextbaseCrmProject.inputUsername.sendKeys(ConfigurationReader.getProperty("next.username"));
